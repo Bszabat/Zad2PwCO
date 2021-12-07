@@ -1,4 +1,4 @@
-# DockerProjekt2
+# Zad2
 
 Polecenia do uruchomienia stacka docker-compose up -d
 
