@@ -7,4 +7,7 @@ stworzenie bazy danych docker exec <nazwa_kontenera> mysql --execute="CREATE DAT
 wygenerowanie struktury projektu docker container run --rm -it --name mgraph -v $(pwd):/input pmsipilot/docker-compose-viz render -m image docker-compose.yaml
 
 reprezentacja graficzna projektu:
+
+
+
 ![obraz](./docker-compose.png)
